@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Enigma Square I" houseid="1" entryx="1011" entryy="989" entryz="7" rent="3500" townid="1" size="69" />
+	<house name="Enigma Square II" houseid="2" entryx="1003" entryy="989" entryz="7" rent="3150" townid="1" size="61" />
+	<house name="Enigma Square III" houseid="3" entryx="992" entryy="989" entryz="7" rent="2700" townid="1" size="51" />
+	<house name="Ocean Mansion" houseid="28" entryx="1009" entryy="956" entryz="7" rent="2000" townid="1" size="78" />
+	<house name="Ocean Plaza I" houseid="29" entryx="1012" entryy="949" entryz="7" rent="850" townid="1" size="32" />
+	<house name="Ocean Plaza II" houseid="30" entryx="1017" entryy="949" entryz="7" rent="850" townid="1" size="32" />
+	<house name="Ocean Plaza III" houseid="31" entryx="1022" entryy="949" entryz="7" rent="850" townid="1" size="32" />
+	<house name="Guildhouse of the Park" houseid="32" entryx="1056" entryy="995" entryz="7" rent="11500" townid="1" size="262" />
+	<house name="Dream Lane I" houseid="33" entryx="1027" entryy="956" entryz="7" rent="1250" townid="1" size="24" />
+	<house name="Dream Lane II" houseid="34" entryx="1027" entryy="961" entryz="7" rent="1650" townid="1" size="32" />
+	<house name="Dream Lane III" houseid="35" entryx="1027" entryy="965" entryz="7" rent="1250" townid="1" size="24" />
+	<house name="Dream Lane IV" houseid="36" entryx="1027" entryy="969" entryz="7" rent="1250" townid="1" size="24" />
+	<house name="Park Flat I" houseid="37" entryx="1044" entryy="978" entryz="7" rent="0" townid="1" size="28" />
+	<house name="Park Flat II" houseid="38" entryx="1053" entryy="978" entryz="7" rent="1500" townid="1" size="45" />
+	<house name="Park Flat III" houseid="39" entryx="1042" entryy="978" entryz="6" rent="1450" townid="1" size="26" />
+	<house name="Park Lane I" houseid="40" entryx="1026" entryy="1016" entryz="7" rent="3750" townid="1" size="75" />
+	<house name="Park Lane II" houseid="41" entryx="1035" entryy="1016" entryz="7" rent="3750" townid="1" size="75" />
+	<house name="Enigma 32" houseid="45" entryx="973" entryy="1000" entryz="7" rent="1250" townid="1" size="48" />
+	<house name="Enigma 33" houseid="46" entryx="973" entryy="1005" entryz="7" rent="1250" townid="1" size="48" />
+	<house name="Mystical House" houseid="48" entryx="973" entryy="987" entryz="7" rent="0" townid="1" size="94" />
+	<house name="Guildhouse of the River" houseid="49" entryx="971" entryy="1017" entryz="7" rent="11400" townid="1" size="260" />
+	<house name="Enigma 1" houseid="252" entryx="992" entryy="972" entryz="7" rent="0" townid="1" size="61" />
+	<house name="Enigma 2" houseid="253" entryx="999" entryy="972" entryz="7" rent="0" townid="1" size="55" />
+	<house name="Enigma 3" houseid="254" entryx="1012" entryy="972" entryz="7" rent="0" townid="1" size="55" />
+	<house name="Enigma 5" houseid="255" entryx="982" entryy="968" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 6" houseid="256" entryx="982" entryy="973" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 7" houseid="257" entryx="982" entryy="978" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 8" houseid="258" entryx="985" entryy="990" entryz="7" rent="0" townid="1" size="56" />
+	<house name="Enigma 9" houseid="259" entryx="965" entryy="968" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 10" houseid="260" entryx="965" entryy="973" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 11" houseid="261" entryx="965" entryy="978" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 13" houseid="262" entryx="970" entryy="956" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 14" houseid="263" entryx="968" entryy="956" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 15" houseid="264" entryx="963" entryy="964" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 16" houseid="265" entryx="963" entryy="971" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 17" houseid="266" entryx="963" entryy="978" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 18" houseid="267" entryx="963" entryy="987" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 19" houseid="268" entryx="963" entryy="994" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 20" houseid="269" entryx="963" entryy="1001" entryz="7" rent="0" townid="1" size="45" />
+	<house name="Enigma 21" houseid="270" entryx="963" entryy="1007" entryz="7" rent="0" townid="1" size="24" />
+	<house name="Enigma 22" houseid="271" entryx="976" entryy="1013" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 23" houseid="272" entryx="976" entryy="1018" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 24" houseid="273" entryx="976" entryy="1023" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 25" houseid="274" entryx="990" entryy="1023" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 26" houseid="275" entryx="990" entryy="1018" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 12" houseid="276" entryx="990" entryy="1013" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Enigma 27" houseid="277" entryx="998" entryy="1022" entryz="7" rent="0" townid="1" size="41" />
+	<house name="Enigma 28" houseid="278" entryx="1043" entryy="1007" entryz="7" rent="0" townid="1" size="57" />
+	<house name="Enigma 29" houseid="279" entryx="1051" entryy="1007" entryz="7" rent="0" townid="1" size="57" />
+	<house name="Enigma 30" houseid="280" entryx="1059" entryy="1007" entryz="7" rent="0" townid="1" size="57" />
+	<house name="Enigma 31" houseid="281" entryx="1069" entryy="1007" entryz="7" rent="0" townid="1" size="82" />
+	<house name="Guild House 1" houseid="282" entryx="968" entryy="946" entryz="7" rent="0" townid="1" size="484" />
+	<house name="Braden Test" houseid="2309" entryx="779" entryy="848" entryz="7" rent="20000" townid="1" size="18" />
+	<house name="Unnamed House #2310" houseid="2310" entryx="1045" entryy="530" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Unnamed House #2311" houseid="2311" entryx="1051" entryy="526" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Unnamed House #2312" houseid="2312" entryx="1043" entryy="527" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Unnamed House #2313" houseid="2313" entryx="1036" entryy="527" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Unnamed House #2314" houseid="2314" entryx="1029" entryy="517" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #2315" houseid="2315" entryx="1021" entryy="517" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #2316" houseid="2316" entryx="1013" entryy="517" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #2317" houseid="2317" entryx="1015" entryy="515" entryz="6" rent="0" townid="1" size="12" />
+	<house name="Unnamed House #2318" houseid="2318" entryx="1018" entryy="515" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Unnamed House #2319" houseid="2319" entryx="1024" entryy="515" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Unnamed House #2320" houseid="2320" entryx="1030" entryy="515" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Unnamed House #2321" houseid="2321" entryx="1008" entryy="528" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Unnamed House #2322" houseid="2322" entryx="1002" entryy="532" entryz="7" rent="0" townid="1" size="34" />
+	<house name="Unnamed House #2323" houseid="2323" entryx="1002" entryy="546" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Unnamed House #2324" houseid="2324" entryx="1005" entryy="549" entryz="7" rent="0" townid="1" size="6" />
+	<house name="Unnamed House #2325" houseid="2325" entryx="1007" entryy="550" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Unnamed House #2326" houseid="2326" entryx="1013" entryy="550" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #2328" houseid="2328" entryx="1018" entryy="556" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Unnamed House #2329" houseid="2329" entryx="1032" entryy="553" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Unnamed House #2330" houseid="2330" entryx="1033" entryy="553" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Enigma fix 1" houseid="2331" entryx="1010" entryy="997" entryz="7" rent="0" townid="1" size="67" />
+	<house name="Unnamed House #2332" houseid="2332" entryx="1010" entryy="1003" entryz="7" rent="0" townid="1" size="84" />
+	<house name="Jaden" houseid="2333" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="80" />
+</houses>
